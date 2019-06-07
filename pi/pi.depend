@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1550423789 source:c:\users\usuario\documents\ingenieria electronica\codigos\pi\main.c
+	<stdio.h>
+	<stdlib.h>
+

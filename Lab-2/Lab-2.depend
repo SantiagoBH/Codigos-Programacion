@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1554508532 source:c:\users\usuario\documents\ingenieria electronica\codigos\lab-2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

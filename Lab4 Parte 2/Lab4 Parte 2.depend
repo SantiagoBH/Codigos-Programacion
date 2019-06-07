@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1558111938 source:c:\users\usuario\documents\ingenieria electronica\codigos\lab4 parte 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"libreria.h"
+
+1558058905 c:\users\usuario\documents\ingenieria electronica\codigos\lab4 parte 2\libreria.h
+	<stdlib.h>
+	<stdio.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1550414843 source:c:\users\usuario\documents\ingenieria electronica\codigos\cuadrado\main.c
+	<stdio.h>
+	<stdlib.h>
+

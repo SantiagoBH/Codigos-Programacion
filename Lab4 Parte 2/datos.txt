@@ -1,0 +1,30 @@
+Usuario 
+Nombre: s
+Identificacion: 2
+Numero de pasajes: 3
+
+Usuario 
+Nombre: s
+Identificacion: 3
+Numero de pasajes: 6
+
+Usuario 
+Nombre: s
+Identificacion: 1
+Numero de pasajes: 2
+
+Usuario 
+Nombre: d
+Identificacion: 3
+Numero de pasajes: 6
+
+Usuario 
+Nombre: q
+Identificacion: 5
+Numero de pasajes: 2
+
+Usuario 
+Nombre: a
+Identificacion: 3
+Numero de pasajes: 6
+

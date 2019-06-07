@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1554173191 source:c:\users\usuario\documents\ingenieria electronica\codigos\parrafo\main.c
+	<stdio.h>
+	<stdlib.h>
+

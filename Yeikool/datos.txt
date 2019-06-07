@@ -1,0 +1,24 @@
+
+Nombre: s
+Identificacion: 100
+Pasajes: 4
+
+Nombre: s
+Identificacion: 1
+Pasajes: 2
+
+Nombre: d
+Identificacion: 3
+Pasajes: 2
+
+Nombre: e
+Identificacion: 2
+Pasajes: 3
+
+Nombre: Yeikool
+Identificacion: 3
+Pasajes: 9
+
+Nombre: Santiago
+Identificacion: 7
+Pasajes: 8

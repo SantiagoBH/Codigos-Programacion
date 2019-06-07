@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1550448748 source:c:\users\usuario\documents\ingenieria electronica\codigos\numeros narcistas\main.c
+	<stdio.h>
+	<stdlib.h>
+

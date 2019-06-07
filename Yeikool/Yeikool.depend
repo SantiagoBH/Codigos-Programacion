@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1558110964 source:c:\users\usuario\documents\ingenieria electronica\codigos\yeikool\main.c
+	<stdio.h>
+	<stdlib.h>
+	"milibreria.h"
+
+1558112154 c:\users\usuario\documents\ingenieria electronica\codigos\yeikool\milibreria.h
+	<stdio.h>
+	<stdlib.h>
+

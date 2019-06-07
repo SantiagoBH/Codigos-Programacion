@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1559867430 source:c:\users\usuario\documents\ingenieria electronica\codigos\aspiradora\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<stdio.h>
+
